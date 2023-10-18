@@ -1,0 +1,9 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/shovel/.config
+- /home/shovel/projetos/zsh-syntax-highlighting
+startuppopupversion: 5
+customcommandshistory:
+- q
+hidecommandlog: false
+ignorewhitespaceindiffview: false
